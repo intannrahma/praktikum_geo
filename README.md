@@ -40,12 +40,14 @@ Marker disimpan ke storage agar tetap ada saat aplikasi dibuka ulang.
 
 Hapus marker berdasarkan ID.
 
-LATIHAN PRAKTIKUM
+# LATIHAN PRAKTIKUM
+
 ![latihan1](images/latihan1.jpeg)
 ![latihan2](images/latihan2.jpeg)
 ![latihan3](images/latihan3.jpeg)
 
-TUGAS PRAKTIKUM
+# TUGAS PRAKTIKUM
+
 ![tugas1](images/tugas1.jpeg)
 ![tugas2](images/tugas2.jpeg)
 ![tugas3](images/tugas3.jpeg)
